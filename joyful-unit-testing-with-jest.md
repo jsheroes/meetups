@@ -1,6 +1,7 @@
 # Joyful unit testing with Jest ( Andrei Cacio ) 
 
 Slides: http://slides.com/andrei-cacio/deck
+
 Repo which I demoed on: https://github.com/andrei-cacio/joyful-unit-testing-with-jest
 
 Some useful links that people pointed out during the open discussion:
