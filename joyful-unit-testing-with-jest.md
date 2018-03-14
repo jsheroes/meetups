@@ -1,6 +1,7 @@
 # Joyful unit testing with Jest
 
 ### Speaker: Andrei Cacio
+### Date: 06.03.2018
 ### Venue: Ve Interactive
 ### Description:
 We are happy to announce that our next meetup will be about unit testing, more exactly about an unit testing framework called Jest.
