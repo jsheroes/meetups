@@ -1,6 +1,6 @@
 # Joyful unit testing with Jest
 
-### Speaker: Andrei Cacio
+### Speaker: [Andrei Cacio](https://github.com/andrei-cacio)
 ### Date: 06.03.2018
 ### Venue: Ve Interactive
 ### Description:
