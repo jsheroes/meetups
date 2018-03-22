@@ -1,6 +1,6 @@
 # Vue
 
-### Speaker: Cristi Jora
+### Speaker: Cristi Jora & Eduard Lupacescu
 ### Date: 21.03.2018
 ### Venue: Fortech
 ### Description:
@@ -14,7 +14,6 @@ I’m a web developer at Corebuild. I love open source, Javascript and photograp
 
 
 ### Repo:
-
 
 ### Meeting notes:
 
