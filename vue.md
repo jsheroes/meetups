@@ -1,8 +1,6 @@
 # Vue
 
-### Speakers: 
-### [Cristi Jora](https://github.com/cristijora)
-### [Eduard Lupacescu](https://github.com/binaryk)
+### Speakers: [Cristi Jora](https://github.com/cristijora) & [Eduard Lupacescu](https://github.com/binaryk)
 ### Date: 21.03.2018
 ### Venue: Fortech
 ### Description:
