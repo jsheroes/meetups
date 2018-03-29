@@ -1,4 +1,4 @@
-# Vue
+# Vue Workshop
 
 ### Speakers: [Cristi Jora](https://github.com/cristijora) & [Eduard Lupacescu](https://github.com/binaryk)
 ### Date: 28.03.2018
