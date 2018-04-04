@@ -1,7 +1,7 @@
 # How to write a Babel plugin
 
 ### Speakers: Paul Comanici
-### Date: 28.03.2018
+### Date: 04.04.2018
 ### Venue: 8x8
 ### Description:
 
