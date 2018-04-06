@@ -1,6 +1,6 @@
 # How to write a Babel plugin
 
-### Speakers: Paul Comanici
+### Speakers: [Paul Comanici](https://github.com/darkyndy)
 ### Date: 04.04.2018
 ### Venue: 8x8
 ### Description:
@@ -18,8 +18,10 @@ About Paul
 Paul is a Technical Lead at 8x8. Front-end engineer, internet addicted, open software supporter, web browser games player.
 
 ### Slides:
+[How to write a Babel plugin](https://slides.com/darkyndy/how-to-write-a-babel-plugin)
 
 ### Repo:
+N/A
 
 ### Meeting notes:
-
+N/A
