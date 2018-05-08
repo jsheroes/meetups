@@ -49,7 +49,7 @@ File storage ( library , react native FS )
 - [Reactotron](https://github.com/infinitered/reactotron) - desktop app for insepcting react-native projects ( and react also )
 - [apisauce](https://github.com/infinitered/apisauce) - wrapper on top of Axios for req/res transforms & better error management
 - [Inifinite Red](https://github.com/infinitered) - org which makes a lot of goodies
-- [Awesome React Native](http://www.awesome-react-native.com/) - list of the libraries, tools, tutorials, articles and more, for react-native
+- [Awesome React Native](http://www.awesome-react-native.com/) - list of libraries, tools, tutorials, articles and more for react-native
 
 #### Others
 * React Native Apps not recomended for video apps, but work fine for Ecommerce 
