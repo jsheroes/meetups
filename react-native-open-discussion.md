@@ -3,54 +3,29 @@
 ### Date: 08.05.2018
 ### Venue: Evozon
 ### Description:
-Our first meetup after the amazing JSHereos with another great topic for an open discussion meetup. This time we will discover the wonderful world of React Native as we'll dive into its ecosystem.
-Keep in mind that everyone is invited to chime in during the open discussion meetups, so feel free to bring your projects / ideas to the table and let's learn more about React Native together!
+
+### Repo:
+
 
 ### Meeting notes:
-#### Routing Options:
-* react-navigation
-* [react-native-navigation](https://github.com/wix/react-native-navigation)
-* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 
-#### Elements Libs:
-* React native Base
-* React native elements
+### Useful links
 
-[Tcom form react native](https://github.com/gcanti/tcomb-form-native) it a nice library that make form handling in RN easier.
+#### Seeds & Boilerplates
 
-#### Performance:
+* [ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
 
-Problems with bigger lists of elements
+#### UI Kits & Styling
 
-#### Data storage:
+* [NativeBase](https://nativebase.io/) - UI components for React Native (useful for fast prototyping)
+* [styled-components](https://www.styled-components.com/) - Allows you to write actual CSS code (and create themes) to style your components
 
-Async storage / realm ( local )
-File storage ( library , react native FS )
+#### Debugging
 
-Redux Persist ( saves to local storage )
+* [reactotron](https://github.com/infinitered/reactotron) - Desktop app for insepcting react-native projects ( and react also )
+* [react-devtools](https://github.com/facebook/react-devtools/blob/master/packages/react-devtools/README.md) - React Developer Tools lets you inspect the React component hierarchy, including component props and state.
 
-#### Backend as a Service options:
-* Firestore ( Google )
-* Amazon  (can't remember the name )
+#### Utililities
 
-#### Notifications
-* https://rnfirebase.io/ (Firebase notifications) 
-* FCM
-
-#### Design: 
-* [Extended StyleSheets](https://github.com/vitalets/react-native-extended-stylesheet)
-* [Styled components](https://github.com/styled-components/styled-components)
-
-#### Code Push
-* App-center ( microsoft )  https://appcenter.ms/
-
-#### Useful links
-
-- [ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
-- [reactotron](https://github.com/infinitered/reactotron) - desktop app for insepcting react-native projects ( and react also )
-- [apisauce](https://github.com/infinitered/apisauce) - wrapper on top of Axios for req/res transforms & better error management
-- [Inifinite Red](https://github.com/infinitered) - org which makes a lot of goodies
-
-#### Others
-* React Native Apps not recomended for video apps, but work fine for Ecommerce 
-* https://notifier-app.com/ - app developed in cluj using react native
+* [apisauce](https://github.com/infinitered/apisauce) - Wrapper on top of Axios for req/res transforms & better error management
+- [Inifinite Red](https://github.com/infinitered) - Org which makes a lot of goodies
