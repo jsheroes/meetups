@@ -38,7 +38,7 @@ Redux Persist ( saves to local storage )
 * FCM
 
 #### Design: 
-* Xtended style sheet
+* [Extended StyleSheets](https://github.com/vitalets/react-native-extended-stylesheet)
 * [Styled components](https://github.com/styled-components/styled-components)
 
 #### Code Push
