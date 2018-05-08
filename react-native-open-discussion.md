@@ -13,8 +13,8 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 * [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 
 #### Elements Libs:
-* React native Base
-* React native elements
+* [NativeBase](https://nativebase.io/)
+* [React Native Elements](https://react-native-training.github.io/react-native-elements/)
 
 [Tcom form react native](https://github.com/gcanti/tcomb-form-native) it a nice library that make form handling in RN easier.
 
@@ -27,7 +27,7 @@ Problems with bigger lists of elements
 Async storage / realm ( local )
 File storage ( library , react native FS )
 
-Redux Persist ( saves to local storage )
+[Redux Persist](https://github.com/rt2zz/redux-persist) ( saves to local storage )
 
 #### Backend as a Service options:
 * Firestore ( Google )
@@ -39,17 +39,17 @@ Redux Persist ( saves to local storage )
 
 #### Design: 
 * [Extended StyleSheets](https://github.com/vitalets/react-native-extended-stylesheet)
-* [Styled components](https://github.com/styled-components/styled-components)
+* [Styled components](https://github.com/styled-components/styled-components) - Allows you to write actual CSS code (and create themes) to style your components
 
 #### Code Push
 * App-center ( microsoft )  https://appcenter.ms/
 
 #### Useful links
-
-- [ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
-- [reactotron](https://github.com/infinitered/reactotron) - desktop app for insepcting react-native projects ( and react also )
+- [Ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
+- [Reactotron](https://github.com/infinitered/reactotron) - desktop app for insepcting react-native projects ( and react also )
 - [apisauce](https://github.com/infinitered/apisauce) - wrapper on top of Axios for req/res transforms & better error management
 - [Inifinite Red](https://github.com/infinitered) - org which makes a lot of goodies
+- [Awesome React Native](http://www.awesome-react-native.com/) - list of the libraries, tools, tutorials, articles and more, for react-native
 
 #### Others
 * React Native Apps not recomended for video apps, but work fine for Ecommerce 
