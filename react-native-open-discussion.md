@@ -19,7 +19,7 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 
 #### Performance:
 
-Problems with bigger lists of elements
+Problems with bigger lists of elements, animations and live streaming
 
 #### Data storage:
 
@@ -29,18 +29,20 @@ Problems with bigger lists of elements
 
 #### Backend as a Service options:
 * Firestore ( Google )
-* Amazon  (can't remember the name )
+* [AWS (Amazon)](https://facebook.github.io/react-native/blog/2018/03/05/AWS-app-sync.html)
 
 #### Notifications
 * https://rnfirebase.io/ (Firebase notifications) 
-* FCM
+* [FCM](https://github.com/evollu/react-native-fcm)
 
 #### Design: 
 * [Extended StyleSheets](https://github.com/vitalets/react-native-extended-stylesheet)
 * [Styled components](https://github.com/styled-components/styled-components) - Allows you to write actual CSS code (and create themes) to style your components
 
-#### Code Push
-* App-center ( microsoft )  https://appcenter.ms/
+#### Code Push 
+* Setup takes about 1-2 days
+* You can code-push on a specific version of an app and keep making app updates
+* App-center ( microsoft )  https://appcenter.ms/ (easy build and release applications)
 
 #### Useful links
 - [Ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
@@ -52,3 +54,4 @@ Problems with bigger lists of elements
 #### Others
 * React Native Apps not recomended for video apps, but work fine for Ecommerce 
 * https://notifier-app.com/ - app developed in Cluj using react native
+* [Join React-Native Community on Facebook](https://www.facebook.com/groups/react.native.community/)
