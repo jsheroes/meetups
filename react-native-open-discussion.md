@@ -8,7 +8,7 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 
 ### Meeting notes:
 #### Routing Options:
-* react-navigation
+* [react-navigation](https://reactnavigation.org)
 * [react-native-navigation](https://github.com/wix/react-native-navigation)
 * [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 
@@ -23,7 +23,7 @@ Problems with bigger lists of elements
 
 #### Data storage:
 
-* Async storage / realm ( local )
+* Async storage / [Realm](https://realm.io) ( local )
 * File storage ( library , react native FS )
 * [Redux Persist](https://github.com/rt2zz/redux-persist) ( saves to local storage )
 
@@ -51,4 +51,4 @@ Problems with bigger lists of elements
 
 #### Others
 * React Native Apps not recomended for video apps, but work fine for Ecommerce 
-* https://notifier-app.com/ - app developed in cluj using react native
+* https://notifier-app.com/ - app developed in Cluj using react native
