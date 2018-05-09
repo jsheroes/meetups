@@ -15,8 +15,7 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 #### Elements Libs:
 * [NativeBase](https://nativebase.io/)
 * [React Native Elements](https://react-native-training.github.io/react-native-elements/)
-
-[Tcom form react native](https://github.com/gcanti/tcomb-form-native) it a nice library that make form handling in RN easier.
+* [Tcom form react native](https://github.com/gcanti/tcomb-form-native) it a nice library that makes form handling easier.
 
 #### Performance:
 
@@ -24,10 +23,9 @@ Problems with bigger lists of elements
 
 #### Data storage:
 
-Async storage / realm ( local )
-File storage ( library , react native FS )
-
-[Redux Persist](https://github.com/rt2zz/redux-persist) ( saves to local storage )
+* Async storage / realm ( local )
+* File storage ( library , react native FS )
+* [Redux Persist](https://github.com/rt2zz/redux-persist) ( saves to local storage )
 
 #### Backend as a Service options:
 * Firestore ( Google )
