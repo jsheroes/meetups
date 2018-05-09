@@ -3,7 +3,7 @@
 ### Date: 08.05.2018
 ### Venue: Evozon
 ### Description:
-Our first meetup after the amazing JSHereos with another great topic for an open discussion meetup. This time we will discover the wonderful world of React Native as we'll dive into its ecosystem.
+Our first meetup after the amazing JSHeroes with another great topic for an open discussion meetup. This time we will discover the wonderful world of React Native as we'll dive into its ecosystem.
 Keep in mind that everyone is invited to chime in during the open discussion meetups, so feel free to bring your projects / ideas to the table and let's learn more about React Native together!
 
 ### Meeting notes:
