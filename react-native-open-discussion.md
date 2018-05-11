@@ -18,11 +18,13 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 * [Tcom form react native](https://github.com/gcanti/tcomb-form-native) it a nice library that makes form handling easier.
 
 #### Performance:
+* Problems with bigger lists of elements, animations and live streaming
+* [Optimized FlatList](https://github.com/stoffern/react-native-optimized-flatlist)
 
-Problems with bigger lists of elements, animations and live streaming
+#### Animations:
+* [Master React Native Animations Course](https://www.udemy.com/master-react-native-animations/learn/v4/content)
 
 #### Data storage:
-
 * Async storage / [Realm](https://realm.io) ( local )
 * File storage ( library , react native FS )
 * [Redux Persist](https://github.com/rt2zz/redux-persist) ( saves to local storage )
@@ -32,26 +34,34 @@ Problems with bigger lists of elements, animations and live streaming
 * [AWS (Amazon)](https://facebook.github.io/react-native/blog/2018/03/05/AWS-app-sync.html)
 
 #### Notifications
-* https://rnfirebase.io/ (Firebase notifications) 
+* [Firebase Notifications](https://rnfirebase.io/)
 * [FCM](https://github.com/evollu/react-native-fcm)
 
-#### Design: 
+#### Design:
+* [React Native Safe Area View](https://medium.com/react-native-training/react-native-iphonex-92ff511282af)
 * [Extended StyleSheets](https://github.com/vitalets/react-native-extended-stylesheet)
 * [Styled components](https://github.com/styled-components/styled-components) - Allows you to write actual CSS code (and create themes) to style your components
 
-#### Code Push 
+#### Code Push
 * Setup takes about 1-2 days
 * You can code-push on a specific version of an app and keep making app updates
 * App-center ( microsoft )  https://appcenter.ms/ (easy build and release applications)
 
+#### Project Structure
+* [Possible Approach](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
+
+#### Testing
+* [Testing React Native apps with Jest & Detox](https://pillow.codes/testing-in-react-native-jest-detox-d7b3b79a166a)
+
 #### Useful links
 - [Ignite](https://github.com/infinitered/ignite) - CLI for react-native boilerplates, plugins, etc
-- [Reactotron](https://github.com/infinitered/reactotron) - desktop app for insepcting react-native projects ( and react also )
+- [Reactotron](https://github.com/infinitered/reactotron) - desktop app for inspecting react-native projects ( and react also )
 - [apisauce](https://github.com/infinitered/apisauce) - wrapper on top of Axios for req/res transforms & better error management
 - [Inifinite Red](https://github.com/infinitered) - org which makes a lot of goodies
 - [Awesome React Native](http://www.awesome-react-native.com/) - list of libraries, tools, tutorials, articles and more for react-native
 
 #### Others
-* React Native Apps not recomended for video apps, but work fine for Ecommerce 
+* React Native Apps not recommended for video apps, but work fine for Ecommerce
 * https://notifier-app.com/ - app developed in Cluj using react native
 * [Join React-Native Community on Facebook](https://www.facebook.com/groups/react.native.community/)
+* [GraphQL integration](https://www.apollographql.com/docs/react/recipes/react-native.html)
