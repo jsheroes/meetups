@@ -24,6 +24,7 @@ I'm a software developer at Fortech. I love JavaScript and organising meetups.
 
 ### Slides: 
 * https://slides.com/danielmocan/promises-2#/
+* https://github.com/danielmocan/promises-async-await-presentation - all the slides content ( + extra comments ) and examples
 
 ### Repo:
   * https://github.com/andrei-cacio/async-javascript
