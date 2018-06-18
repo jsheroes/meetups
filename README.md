@@ -7,3 +7,5 @@ Meetups information and useful links for CluJSers
 - [Learn Vue by Example](https://github.com/cluj-javascripters/meetups/blob/master/learn-vue-by-example.md)
 - [How to write a Babel plugin](https://github.com/cluj-javascripters/meetups/blob/master/how-to-write-a-babel-plugin.md)
 - [React Native - Open Discussion](https://github.com/cluj-javascripters/meetups/blob/master/react-native-open-discussion.md)
+- [Evolving Patterns in React](https://github.com/cluj-javascripters/meetups/blob/master/evolving-patterns-in-react.md)
+- [Promises and Async / Await](https://github.com/cluj-javascripters/meetups/blob/master/promises-async-await.md)
