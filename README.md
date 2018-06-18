@@ -1,6 +1,6 @@
-# meetups page
+# Meetups
 
-Meetups information and useful links for CluJSers
+Information and useful links from our JSHeroes Community Meetups
 
 - [Joyful unit testing with Jest](https://github.com/cluj-javascripters/meetups/blob/master/joyful-unit-testing-with-jest.md)
 - [Vue - Presentation](https://github.com/cluj-javascripters/meetups/blob/master/vue.md)
