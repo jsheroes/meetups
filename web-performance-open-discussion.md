@@ -49,3 +49,6 @@ Make sure we'll cover things like:
 * Educate people
 * Visualize performance costs
 * Enforce performance metrics with tools
+
+#### Literature
+- [High Performance Browser Networking by ILYA GRIGORIK](https://hpbn.co/)
