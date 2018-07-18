@@ -9,3 +9,4 @@ Information and useful links from our JSHeroes Community Meetups
 - [React Native - Open Discussion](https://github.com/cluj-javascripters/meetups/blob/master/react-native-open-discussion.md)
 - [Evolving Patterns in React](https://github.com/cluj-javascripters/meetups/blob/master/evolving-patterns-in-react.md)
 - [Promises and Async / Await](https://github.com/cluj-javascripters/meetups/blob/master/promises-async-await.md)
+- [Web Performance - Open Discussion](https://github.com/cluj-javascripters/meetups/blob/master/web-performance-open-discussion.md)
