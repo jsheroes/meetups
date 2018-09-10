@@ -48,4 +48,7 @@ We look forward to seeing y'all there!
 
 [serverless-side rendering with Vue.js, Nuxt.js and AWS Lambda](https://dev.to/adnanrahic/a-crash-course-on-serverless-side-rendering-with-vuejs-nuxtjs-and-aws-lambda-1nk4)
 
+[Dashbird - Free Serverless Visibility & Debugging Tool](https://dashbird.io/)
+
+
 
