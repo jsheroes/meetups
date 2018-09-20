@@ -1,4 +1,4 @@
-# Gentle introduction into serverless
+# End-to-End testing with TestCafe
 
 ### Speaker: [Daniel Mocan](https://twitter.com/danielsmocan) & [Ciprian Druhora](https://github.com/CiprianDru)
 ### Date: 19.09.2018
