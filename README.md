@@ -10,3 +10,4 @@ Information and useful links from our JSHeroes Community Meetups
 - [Evolving Patterns in React](https://github.com/cluj-javascripters/meetups/blob/master/evolving-patterns-in-react.md)
 - [Promises and Async / Await](https://github.com/cluj-javascripters/meetups/blob/master/promises-async-await.md)
 - [Web Performance - Open Discussion](https://github.com/cluj-javascripters/meetups/blob/master/web-performance-open-discussion.md)
+- [A Gentle Introduction to Serverless](https://github.com/jsheroes/meetups/blob/master/a-gentle-introduction-to-serverless.md)
