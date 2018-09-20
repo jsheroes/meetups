@@ -1,6 +1,6 @@
 # End-to-End testing with TestCafe
 
-### Speaker: [Daniel Mocan](https://twitter.com/danielsmocan) & [Ciprian Druhora](https://github.com/CiprianDru)
+### Speaker: [Daniel Mocan](https://twitter.com/danielsmocan) & [Ciprian Druhora](https://www.linkedin.com/in/ciprian-druhora-969193b1/)
 ### Date: 19.09.2018
 ### Venue: 3Pillar
 ### Description:
