@@ -16,8 +16,12 @@ About Robert
 
 Robert is a young tech enthusiast, JavaScript addict with a creative mindset. He mostly likes to stretch the limits of JavaScript and new technologies, generally speaking. At the moment, he lives in Cluj-Napoca and works with the technology he loves the most - JavaScript.
 
-### Slides: 
-### Repo: 
+### Slides: https://slides.com/robertpop/deck-9
+### Repos: 
+#### [jsheroes-demo](https://github.com/poprobertdaniel/jsheroes-demo) 
+#### [metro-demo](https://github.com/poprobertdaniel/metro-systems-cypress-demo)
 
 ### References
 
+#### [cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html)
+#### [husky](https://github.com/typicode/husky#readme)
