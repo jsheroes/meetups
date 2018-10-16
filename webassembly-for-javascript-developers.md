@@ -19,7 +19,7 @@ About Andrei:
 
 I'm a JavaScript Developer at Moqups. I like to keep in touch with the latest and greatest tools. However, I favour design patterns and programming principles over the shiniest framework.
 ### Slides:
--
+N/A
 
 ### Repo:
 https://github.com/andrei-cacio/wasm-meetup
@@ -27,5 +27,5 @@ https://github.com/andrei-cacio/wasm-meetup
 ### Meeting notes:
 - [Windows 2000 in the browser](https://www.reddit.com/r/webdev/comments/98ufca/windows_2000_emulated_in_webassembly/)
 - [Webcam WASM demo](https://d2jta7o2zej4pf.cloudfront.net/)
-- [WebAssembly Google I/O '17](Compiling for the Web with WebAssembly (Google I/O '17))
+- [WebAssembly Google I/O '17](https://www.youtube.com/watch?v=6v4E6oksar0)
 - [WebAssembly Google I/O '18](https://www.youtube.com/watch?v=BnYq7JapeDA&t=599s)
