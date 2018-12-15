@@ -14,4 +14,4 @@ Information and useful links from our JSHeroes Community Meetups
 - [A Gentle Introduction to Serverless](./a-gentle-introduction-to-serverless.md)
 - [End-to-End Testing with Testcafe](./end-to-end-testing-with-testcafe.md)
 - [WebAssembly for JavaScript Developers](./webassembly-for-javascript-developers.md)
-
+- [Web components as a compile target](./webcomponents-as-a-compilation-target.md)
