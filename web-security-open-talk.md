@@ -16,6 +16,7 @@ Anyone is welcomed, those who want to share or just learn new things.
 
 ### Meeting notes:
 
+#### Topics( proposed )
 * Security mindset - Capture the flag games, break the current project that your work on 
 * Dev ops / server security -> Preferably use a devops, and if you do it yourself at least have a checklist( 
 * Audits ( tools ) -Snyc 
