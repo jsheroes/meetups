@@ -1,6 +1,6 @@
 # Web Security - Open Discussion
 
-### Date: 15.01.2018
+### Date: 15.01.2019
 ### Venue: QCatalyst
 ### Description:
 
