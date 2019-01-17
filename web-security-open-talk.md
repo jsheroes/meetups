@@ -78,5 +78,8 @@ Anyone is welcomed, those who want to share or just learn new things.
 
 #### Packages 
 * [Validator](https://www.npmjs.com/package/validator) for validation checks
+* [Joi](https://www.npmjs.com/package/joi) - another popular validator package, with a [build](https://github.com/jeffbski/joi-browser) targeting browsers
 * [Safe Regex](https://www.npmjs.com/package/safe-regex) to check if sa regex is safe or if could create infinit loops
+* [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate limiter for Express.js
+* [Helmet](https://www.npmjs.com/package/helmet) - express middleware for setting up application headers
 
