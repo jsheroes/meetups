@@ -39,6 +39,7 @@ Anyone is welcomed, those who want to share or just learn new things.
 #### Resources
 * [Web Security cheetsheet](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/security/security-cheatsheet.png)
 * [Web Security checklist](https://github.com/FortechRomania/js-team-showcase/blob/master/how-we-work/security/dev-security-checklist.md)
+* [Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices) from Node Best Practices compendium.
 
 #### Penetration Testing tools (for self use purposes **only**)
 - [Burp](https://portswigger.net) - pen testing tool
@@ -76,11 +77,19 @@ Anyone is welcomed, those who want to share or just learn new things.
 - [BDD security](https://continuumsecurity.net/bdd-security/) - CI security scan
 - [JS security code practices](https://checkmarx.gitbooks.io/js-scp/input-validation/data-types/files.html)
 
+
 #### Dependency Vulnerability-checking Tools
 - [Snyk](https://snyk.io/) - an automated commercial tool that checks for outdated and vulnerable packages in your code.
 - [Greenkeeper](https://greenkeeper.io/) - a commercial tool that checks your github repos for outdated packages and notifies of changes.
 
+#### Books
+- [Essential NodeJS Security](https://leanpub.com/nodejssecurity)
+- [Securing The API Stronghold](https://leanpub.com/securing-the-api-stronghold)
+
 #### Packages 
 * [Validator](https://www.npmjs.com/package/validator) for validation checks
+* [Joi](https://www.npmjs.com/package/joi) - another popular validator package, with a [build](https://github.com/jeffbski/joi-browser) targeting browsers
 * [Safe Regex](https://www.npmjs.com/package/safe-regex) to check if sa regex is safe or if could create infinit loops
+* [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) - rate limiter for Express.js
+* [Helmet](https://www.npmjs.com/package/helmet) - express middleware for setting up application headers
 
