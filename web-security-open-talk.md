@@ -77,6 +77,11 @@ Anyone is welcomed, those who want to share or just learn new things.
 - [BDD security](https://continuumsecurity.net/bdd-security/) - CI security scan
 - [JS security code practices](https://checkmarx.gitbooks.io/js-scp/input-validation/data-types/files.html)
 
+#### Books
+- [Essential NodeJS Security](https://leanpub.com/nodejssecurity)
+- [Securing The API Stronghold](https://leanpub.com/securing-the-api-stronghold)
+
+
 #### Packages 
 * [Validator](https://www.npmjs.com/package/validator) for validation checks
 * [Joi](https://www.npmjs.com/package/joi) - another popular validator package, with a [build](https://github.com/jeffbski/joi-browser) targeting browsers
