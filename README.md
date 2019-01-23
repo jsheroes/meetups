@@ -15,3 +15,5 @@ Information and useful links from our JSHeroes Community Meetups
 - [End-to-End Testing with Testcafe](./end-to-end-testing-with-testcafe.md)
 - [WebAssembly for JavaScript Developers](./webassembly-for-javascript-developers.md)
 - [Web components as a compile target](./webcomponents-as-a-compilation-target.md)
+- [Web Security - Open talk](./web-security-open-talk.md)
+- [Pragmatic Testing for React Components)](./pragmatic-testing-for-react-components.md)
