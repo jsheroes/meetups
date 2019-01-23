@@ -1,6 +1,6 @@
 # End-to-End testing with TestCafe
 
-### Speaker: [Ovidiu Chereche](https://github.com/skidding)
+### Speaker: [Ovidiu Cherecheș](https://github.com/skidding)
 ### Date: 22.01.2019
 ### Venue: Arobs Transilvania Software
 ### Description:
