@@ -1,4 +1,4 @@
-# End-to-End testing with TestCafe
+# Pragmatic testing for React components
 
 ### Speaker: [Ovidiu Cherecheș](https://github.com/skidding)
 ### Date: 22.01.2019
@@ -13,9 +13,14 @@ Indie developer working on ReactCosmos. Loves building user interfaces and devel
 
 ### Slides: 
 
+* [testing-react-components.now.sh](https://testing-react-components.now.sh/)
+
 ### Repo: 
+
+* [skidding/react-testing-talk](https://github.com/skidding/react-testing-talk)
 
 ### References
 
-* [react-mock](https://github.com/skidding/react-mock)
-* [react-testing-examples.com](http://react-testing-examples.com)
+* [react-mock](https://github.com/skidding/react-mock) Declarative mocks for React state and global APIs
+* [react-testing-examples.com](http://react-testing-examples.com) Searchable library of React testing examples
+* [react-testing-library](https://github.com/kentcdodds/react-testing-library) React DOM testing utilities that encourage good testing practices
