@@ -59,6 +59,7 @@ Keep in mind that everyone is invited to chime in during the open discussion mee
 - [apisauce](https://github.com/infinitered/apisauce) - wrapper on top of Axios for req/res transforms & better error management
 - [Inifinite Red](https://github.com/infinitered) - org which makes a lot of goodies
 - [Awesome React Native](http://www.awesome-react-native.com/) - list of libraries, tools, tutorials, articles and more for react-native
+- [Node API & Google Cloud SQL](https://medium.com/@austinhale/building-a-node-api-with-express-and-google-cloud-sql-9bda260b040f) - A different approach on using GC SQL
 
 #### Others
 * React Native Apps not recommended for video apps, but work fine for Ecommerce
