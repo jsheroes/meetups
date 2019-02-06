@@ -8,6 +8,7 @@ Information and useful links from our JSHeroes Community Meetups
 - [Learn Vue by Example](./learn-vue-by-example.md)
 - [How to write a Babel plugin](./how-to-write-a-babel-plugin.md)
 - [React Native - Open Discussion](./react-native-open-discussion.md)
+- [Intro to React-Native and Apollo-Client](./intro-react-native-graphql-apollo-client.md)
 - [Evolving Patterns in React](./evolving-patterns-in-react.md)
 - [Promises and Async / Await](./promises-async-await.md)
 - [Web Performance - Open Discussion](./web-performance-open-discussion.md)
