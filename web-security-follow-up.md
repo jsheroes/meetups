@@ -1,7 +1,7 @@
 # Web Security Follow Up
 
 ### Speaker: [Tudor Serban](https://www.linkedin.com/in/tudor-serban-47459748/)
-### Date: 04.09.2018
+### Date: 19.02.2019
 ### Venue: UiPath
 ### Description:
 
