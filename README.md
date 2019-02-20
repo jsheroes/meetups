@@ -18,3 +18,4 @@ Information and useful links from our JSHeroes Community Meetups
 - [Web components as a compile target](./webcomponents-as-a-compilation-target.md)
 - [Web Security - Open talk](./web-security-open-talk.md)
 - [Pragmatic Testing for React Components)](./pragmatic-testing-for-react-components.md)
+- [Web Security Follow Up](./web-security-follow-up.md)
