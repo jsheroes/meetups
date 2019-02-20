@@ -30,7 +30,7 @@ Tudor is a Senior Software Engineer at UiPath and OSWP certified. In his spare t
 
 ### Slides: 
 
-https://docs.google.com/presentation/d/1KN7K4mqNhkKtVex0nOZE5E09UjO70D9eUZo5SQJEjTs/edit?usp=sharing
+[Google docs format](https://docs.google.com/presentation/d/1KN7K4mqNhkKtVex0nOZE5E09UjO70D9eUZo5SQJEjTs/edit?usp=sharing)
 
 ### Tools
 
