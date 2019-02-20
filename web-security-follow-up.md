@@ -1,4 +1,4 @@
-# Gentle introduction into serverless
+# Web Security - Follow Up
 
 ### Speaker: [Tudor Serban](https://www.linkedin.com/in/tudor-serban-47459748/)
 ### Date: 04.09.2018
