@@ -30,6 +30,20 @@ Tudor is a Senior Software Engineer at UiPath and OSWP certified. In his spare t
 
 ### Slides: 
 
+https://docs.google.com/presentation/d/1KN7K4mqNhkKtVex0nOZE5E09UjO70D9eUZo5SQJEjTs/edit?usp=sharing
+
+### Tools
+
+[VirtualBox](https://www.virtualbox.org/) - Virtualization platform
+[Kali Linux](https://www.kali.org/) - Linux distro for pentesting
+[Burp Suite](https://portswigger.net/burp) - Interceptor proxy used to inspect/modify/replay web requests
+[SQL Map](http://sqlmap.org/) - SQL pentesting tool
+[Nmap](https://nmap.org/) - Network information gathering tool
+[Metasploit](https://www.metasploit.com/) - Automatic vulnerability exploitation tool
+[BeEF](https://beefproject.com/) - Browser exploitation framework
+[WebGoat](https://github.com/WebGoat/WebGoat) - Deliberately vulnerable website
+[Metasploitable](https://metasploit.help.rapid7.com/docs/metasploitable-2) - Deliberately vulnerable Linux distro
+
 ### References
 
 [Web Security Talk at JSHeroes](https://www.youtube.com/watch?v=sHKyMwIK9F0&index=22&list=UUeJEpnvZhG-VwGpzrzYLidQ)
