@@ -1,7 +1,7 @@
 # Full Stack React in the Era of Serverless Computing
 
 ### Speakers: [Nader Dabit](https://twitter.com/dabit3)
-### Date: 04.03.2010
+### Date: 04.03.2019
 ### Venue: TechNTrade
 ### Description:
 
