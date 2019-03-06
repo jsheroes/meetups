@@ -8,11 +8,10 @@ Information and useful links from our JSHeroes Community Meetups.
 3. [React JS](./frameworks/react.md)
 4. [Web Security](./websec/websec.md)
 
-## JavaScript & Others
+## &Others
 - [A Gentle Introduction to Serverless](./a-gentle-introduction-to-serverless.md)
 - [How to write a Babel plugin](./how-to-write-a-babel-plugin.md)
 - [Promises and Async / Await](./promises-async-await.md)
 - [Web Performance - Open Discussion](./web-performance-open-discussion.md)
 - [WebAssembly for JavaScript Developers](./webassembly-for-javascript-developers.md)
-- [Evolving Patterns in React](./evolving-patterns-in-react.md)
 - [Web components as a compile target](./webcomponents-as-a-compilation-target.md)
