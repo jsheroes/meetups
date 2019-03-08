@@ -3,10 +3,10 @@
 Information and useful links from our JSHeroes Community Meetups.
 
 ## Categories
-1. [Quality Assurance](./qa/quality-assurance.md)
+1. [Quality Assurance](./qa)
 2. [Vue JS](./frameworks/vue.md)
 3. [React JS](./frameworks/react.md)
-4. [Web Security](./websec/websec.md)
+4. [Web Security](./websec)
 
 ## &Others
 - [A Gentle Introduction to Serverless](./a-gentle-introduction-to-serverless.md)
