@@ -20,8 +20,10 @@ About Ovidiu
 Indie developer working on ReactCosmos. Loves building user interfaces and developer tools. Previously Engineering Manager at Hootsuite.
 
 ### Slides: 
+* [React Cosmos: Past, present and future](../../resources/cosmos-past-present-future.pdf)
 
 ### Repo: 
+* [React Cosmos](https://github.com/react-cosmos/react-cosmos)
 
 ### References
 * [Flatris](https://flatris.space/) 
