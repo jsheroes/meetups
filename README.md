@@ -15,3 +15,4 @@ Information and useful links from our JSHeroes Community Meetups.
 - [Web Performance - Open Discussion](./web-performance-open-discussion.md)
 - [WebAssembly for JavaScript Developers](./webassembly-for-javascript-developers.md)
 - [Web components as a compile target](./webcomponents-as-a-compilation-target.md)
+- [The Human Side of Accessibility](./the-human-side-of-accessibility.md)
