@@ -17,7 +17,7 @@ On the agenda, we'll have a few topics that cover:
 
 About John
 John is a frontend developer with a marketing background and an avid serverless fanboy.
-We look forward to seeing y'all there!
+We look forward to seeing y'all there!!!
 
 ### Slides: 
 [Check them out here](https://docs.google.com/presentation/d/1WCFD0xq3zEtuCG6ftNQ366nEp9RRJOJ2Mm7inzCatJ4/edit?usp=sharing)

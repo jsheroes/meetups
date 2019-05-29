@@ -34,3 +34,8 @@ Liran is also the author of Essential Node.js Security, a core contributor to OW
 ### References
 
 * [Snyk - open source security platform](https://snyk.io/)
+* Awesome Node.js Security repo to follow-up on tools we mentioned, security incidents in the JavaScript world and more.
+* We'll keep a full list of resources from the talk at: https://github.com/jsheroes/meetups/blob/master/websec/lets-talk-about-open-source-security.md
+* The 50 pages report I mentioned during the talk with *tons* of insights about the state of open source security, covering everything from docker, containers to Node.js and JavaScript application vulnerabilities: https://snyk.io/opensourcesecurity-2019/ (there's a link to download the PDF from there)
+* Snyk the developer-friendly security tooling obviously: http://snyk.io - encourage everyone to try it out, either as a CLI (npm install -g snyk) or connect your projects over GitHub and this way you can have automated fix PRs opened for your repos in order to fix security vulnerabilities (what can you ask more than this? :-))
+
