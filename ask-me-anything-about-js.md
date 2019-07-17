@@ -35,4 +35,18 @@ Ask Me Anything meetup is a place where we can all share and ask questions.
 
 9. Which framework to start with is the best?
 
-10.
+10. Is JavaScript/Node single threaded?
+11. How React hooks work?
+12. How to structure a project
+13. Where can I find a good ReactNative project structure?
+14. Should I think always think about OOP & Design Patterns?
+15. How to <3 JS again?
+16. What should I learn besides JS?
+
+## Resources to learn from
+1. Pluralsight tutorials
+2. Books:
+ - The "how the internet works" bible: https://hpbn.co/
+ - A point to start on how to structure your code/project and why: https://www.goodreads.com/book/show/18043011-clean-architecture
+ - Books about JavaScript, the programming language: https://github.com/getify/You-Dont-Know-JS 
+ - Design patterns applied in JavaScript: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
