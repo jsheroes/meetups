@@ -50,3 +50,19 @@ Ask Me Anything meetup is a place where we can all share and ask questions.
  - A point to start on how to structure your code/project and why: https://www.goodreads.com/book/show/18043011-clean-architecture
  - Books about JavaScript, the programming language: https://github.com/getify/You-Dont-Know-JS 
  - Design patterns applied in JavaScript: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+## Contribution to Open Source
+Resources for first time contributions to open source( Thank you [@liranTal](https://github.com/lirantal) ):
+
+• https://github.com/MunGell/awesome-for-beginners
+
+• https://www.firsttimersonly.com/
+
+• https://github.com/firstcontributions/first-contributions
+
+• https://github.com/search?q=label%3Agood-first-issue&type=Issues
+
+
+Other:
+- [JSHereos Facebook Group](https://www.facebook.com/groups/jsheroes/)
+- [Cluj Internship Facebook Group](https://www.facebook.com/groups/130745720636961/)
