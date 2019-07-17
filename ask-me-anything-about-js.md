@@ -63,6 +63,6 @@ Resources for first time contributions to open source( Thank you [@liranTal](htt
 • https://github.com/search?q=label%3Agood-first-issue&type=Issues
 
 
-Other:
+## Other:
 - [JSHereos Facebook Group](https://www.facebook.com/groups/jsheroes/)
 - [Cluj Internship Facebook Group](https://www.facebook.com/groups/130745720636961/)
