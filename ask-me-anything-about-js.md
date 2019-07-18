@@ -45,11 +45,17 @@ Ask Me Anything meetup is a place where we can all share and ask questions.
 
 ## Resources to learn from
 1. Pluralsight tutorials
+ - Building a JavaScript Development Environment: https://www.pluralsight.com/courses/javascript-development-environment
 2. Books:
  - The "how the internet works" bible: https://hpbn.co/
  - A point to start on how to structure your code/project and why: https://www.goodreads.com/book/show/18043011-clean-architecture
  - Books about JavaScript, the programming language: https://github.com/getify/You-Dont-Know-JS 
  - Design patterns applied in JavaScript: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+3. Useful reads:
+ - Modern JS for Dinosaurs: https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+ - Modern HTML for Dinosaurs: https://medium.com/actualize-network/modern-html-explained-for-dinosaurs-65e56af2981
+4. Talks:
+ - What the heck is the event loop anyway: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 ## Contribution to Open Source
 Resources for first time contributions to open source( Thank you [@liranTal](https://github.com/lirantal) ):
@@ -64,5 +70,5 @@ Resources for first time contributions to open source( Thank you [@liranTal](htt
 
 
 ## Other:
-- [JSHereos Facebook Group](https://www.facebook.com/groups/jsheroes/)
+- [JSHeroes Facebook Group](https://www.facebook.com/groups/jsheroes/)
 - [Cluj Internship Facebook Group](https://www.facebook.com/groups/130745720636961/)
