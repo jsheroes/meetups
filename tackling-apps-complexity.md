@@ -30,4 +30,5 @@ Topics covered:
 * [CSS Modules](https://github.com/css-modules/css-modules)
 * [SOLID](https://en.wikipedia.org/wiki/SOLID)
 * [CSS in JS](https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757)
+* [SWAGGER / Open API - Api documentation](https://swagger.io/)
 
