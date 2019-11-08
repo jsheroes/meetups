@@ -23,5 +23,8 @@ Topics covered:
 - Multi tenant architecture
 - Offline DB sync between clients
 
+
+### (Please add below the libraries, packages, etc.. that you mentions in the meetup)
 ### Resources mentioned in the meetup:
 * [BEM](https://bem.info)
+
