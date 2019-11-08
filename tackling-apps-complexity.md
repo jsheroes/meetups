@@ -22,3 +22,6 @@ Topics covered:
 - Component based FE vs Monolith
 - Multi tenant architecture
 - Offline DB sync between clients
+
+### Resources mentioned in the meetup:
+* [BEM](https://bem.info)
