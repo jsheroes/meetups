@@ -26,5 +26,6 @@ Topics covered:
 
 ### (Please add below the libraries, packages, etc.. that you mentions in the meetup)
 ### Resources mentioned in the meetup:
-* [BEM](https://bem.info)
+* [BEM](https://en.bem.info/methodology/key-concepts/)
+* [CSS Modules](https://github.com/css-modules/css-modules)
 
