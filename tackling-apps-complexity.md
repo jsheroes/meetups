@@ -28,4 +28,6 @@ Topics covered:
 ### Resources mentioned in the meetup:
 * [BEM](https://en.bem.info/methodology/key-concepts/)
 * [CSS Modules](https://github.com/css-modules/css-modules)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+* [CSS in JS](https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757)
 
