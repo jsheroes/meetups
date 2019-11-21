@@ -16,6 +16,8 @@ Some of the topics we will cover will be:
 
 #### Transformation matrix explained - [Andrei Cacio](https://github.com/andrei-cacio)
   - [Slides](https://slides.com/andrei-cacio/deck-7060f2)
+  - [2D Transform Matrix on SVG](https://observablehq.com/@andrei-cacio/2d-transform-matrix-on-svg) - notbook on different transformation functions using the `matrix()` css function
+  - [SVG Transform Origin](https://observablehq.com/@andrei-cacio/svg-transform-origin) - notbook on how origin change of a SVG rectangle affect rotation transformation
 
 #### Handling Mobile Application Updates - [Eliza Nitoi](https://github.com/elizamaria)
   - [Slides](https://slides.com/elizanitoi/handling-mobile-app-updates)
