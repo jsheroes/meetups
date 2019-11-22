@@ -30,14 +30,22 @@ Some of the topics we will cover will be:
 
 #### A quick guide to effective code reviews - [Emilia Muresan](https://github.com/emimuresan)
 
-- Slides
+* [Slides](https://slides.com/emiliamuresan/code-reviews/)
+* Links & References:
+   * [Danger JS](https://danger.systems/js/)
+   * [How to automate code reviews on github](https://medium.com/free-code-camp/how-to-automate-code-reviews-on-github-41be46250712)
+   * [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
+   * [PullPanda - pull request reminders](https://pullreminders.com/)
+   * [Code Dog - automatic code review notifications](https://code-dog.app/)
+   * [Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-for-slack-945096776.html)
+
 
 #### Server Side Rendering - Why you should know about it - [Robert Pop](https://github.com/robipop22)
 
 - [Slides](https://drive.google.com/open?id=1jMf6xN9X_08D1-K_S8fjkHCAJ_cGjuD1)
 - [NextJS Showcases](https://nextjs.org/showcase)
 - [Starter Kit](https://github.com/iaincollins/nextjs-starter)
-  Further Articles:
+- Further Articles:
 - [NextJS vs CRA](https://blog.logrocket.com/next-js-vs-create-react-app/)
 - [Why we decided to move to Next.js](https://dev.to/giogiordano93/why-we-decided-to-move-tonextjs-28gp)
 
