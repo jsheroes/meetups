@@ -2,7 +2,7 @@
 
 ### Date: 20.11.2019
 
-### Venue: Techntrade
+### Venue: Tech'nTrade
 
 ### Description:
 
