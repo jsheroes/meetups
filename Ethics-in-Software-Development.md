@@ -39,6 +39,7 @@ N/A
 ### Meeting notes:
 #### Articles/Talks:
 - [Should People Be Obligated to Tell Guests If There Are Smart Devices in the Home?](https://www.maketecheasier.com/should-people-tell-guests-smart-devices-home)
+- [Ethical Fading Explained](https://www.youtube.com/watch?v=UdU4VZqRIO0)
 - [TALK: Heydon Pickering - Get your priorities straight](https://www.youtube.com/watch?v=ediHVy0869c)
 - [Instagram removing the like button](https://www.businessinsider.com/instagram-removing-likes-what-it-will-look-like-2019-11)
 - [VW Engineering gets 3 years in prison](https://www.theregister.co.uk/2017/08/25/vw_engineer_gets_3yrs_for_emissionbusting_sw/)
