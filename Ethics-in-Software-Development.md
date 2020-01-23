@@ -43,6 +43,7 @@ N/A
 - [TALK: Heydon Pickering - Get your priorities straight](https://www.youtube.com/watch?v=ediHVy0869c)
 - [Instagram removing the like button](https://www.businessinsider.com/instagram-removing-likes-what-it-will-look-like-2019-11)
 - [VW Engineering gets 3 years in prison](https://www.theregister.co.uk/2017/08/25/vw_engineer_gets_3yrs_for_emissionbusting_sw/)
+- [The Meme Hustler] (https://thebaffler.com/salvos/the-meme-hustler)
 
 #### Studies
 
