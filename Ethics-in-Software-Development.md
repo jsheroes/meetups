@@ -28,4 +28,4 @@ N/A
 #### Articles:
 - [Should People Be Obligated to Tell Guests If There Are Smart Devices in the Home?](https://www.maketecheasier.com/should-people-tell-guests-smart-devices-home)
 
-####Studies:
+####Studies
