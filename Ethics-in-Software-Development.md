@@ -5,7 +5,19 @@
 ### Venue: Fortech
 ### Description:
 
-Things we have covered:
+Hey JSHeroes,
+
+Let's kick off 2020 with a more laid back discussion around programming ethics and about the way in which our work impacts the end user of the piece of software we are building.
+
+We will start by looking at some interesting examples of how the work of designers and developers can drastically impact the lives of others and then we will focus on some very open questions around ethics in general:
+- How much impact/responsibility do we have as developers/designers/it people?
+- Should we care about the ethical implications of our work?
+- I am getting paid for this, do I have to do everything I'm being asked?
+- I just built something, do I care what it is being used for?
+Join us in January for a fresh start into the new year!
+
+
+### Things we have covered:
 - How much responsability do we have
 - Legal vs Moral
 - Ethics towards whom?
