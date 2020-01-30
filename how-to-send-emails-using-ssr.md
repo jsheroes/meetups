@@ -1,4 +1,4 @@
-# Gentle introduction into serverless
+# How to send emails using SSR
 
 ### Speaker: [Andrei Muresan](https://github.com/muresanandrei1)
 ### Date: 29.01.2020
