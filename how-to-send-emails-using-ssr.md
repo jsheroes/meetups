@@ -4,7 +4,7 @@
 ### Date: 29.01.2020
 ### Venue: Tech'n'trade
 ### Description:
-In this Meetup Andrei will presented the power of server-side rendering, more exactly how to use the server middleware to create an endpoint that sends email (with the help of NodeMailer), all through Next.js/Nuxt.js, 2 frameworks over React/Vue that will help us bootstrap the project and do all the SSR magic for us.
+Andrei  presented the power of server-side rendering, more exactly how to use the server middleware to create an endpoint that sends email (with the help of NodeMailer), all through Next.js/Nuxt.js, 2 frameworks over React/Vue that will help us bootstrap the project and do all the SSR magic for us.
 
 On the agenda, we'll have a few topics that cover:
 * what is SSR
