@@ -5,18 +5,11 @@
 ### Venue: TechNTrade
 ### Description:
 
-With a Vue.js 3 release in sight, it’s a good time to get familiar with the upcoming features. In this presentation, we’re going to take a trip around the main features, changes and improvements and see what makes Vue.js 3 different from Vue.js 2.
+When people speak about serverless, they typically tend to think about a collection of functions calling each other when in reality the best serverless applications consist of thick client code handling all interaction logic, heavy use of managed services & small glue functions to fill in the missing pieces.
 
-We'll cover:
-- Performance improvements
-- Composition API
-- API changes
-- New component types
-- Better TypeScript support
-- Other exciting features (fragments, suspense, multiple v-models, portals, etc)
+In this talk, I'll introduce a workflow that allows React developers to build full stack applications using JavaScript & web technologies by taking advantage of managed services & databases, implementing real-world features like authentication, GraphQL APIs, serverless Lambda functions, & chatbots using a CLI based workflow.
 
-About Paul:
-For the past five years, Paul is a remote web developer at Jadu, a UK based company where he helps dozens of local councils and organizations digitalize their processes and services.
+About Nader Dabit Nader is a Developer Advocate at Amazon Web Services specializing in cross-platform & cloud-enable application development.
 
 ### Slides:
 
