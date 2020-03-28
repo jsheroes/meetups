@@ -21,13 +21,21 @@ For the past five years, Paul is a remote web developer at Jadu, a UK based comp
 
 
 ### Slides:
-
-### Repo:
-
-
-### Meeting notes:
-N/A
+[Check them out here](https://slides.com/skmetaly/vue-js-3-what-s-coming-e1d397#/3) or download them from [here](../../resources/vue-3-whats-coming.html)
 
 ### Resources
+[Vue 3 repository](https://github.com/vuejs/vue-next)
+
+[Vue 3 webpack preview project](https://github.com/vuejs/vue-next-webpack-preview)
 
 #### Documentation and articles
+[List of active RFCs](https://github.com/vuejs/rfcs/tree/master/active-rfcs)
+
+[Composition API docs](https://vue-composition-api-rfc.netlify.com/api)
+
+[Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+
+
+
+
+
